@@ -498,7 +498,40 @@ h6 {
     white-space: nowrap;
     transition: 0.3s;
   }
+/* Amazon Link Styles (Line ~500) */
+.amazon-link {
+  background: #FF9900;
+  color: #000 !important;
+  padding: 8px 15px;
+  border-radius: 4px;
+  font-weight: 600;
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none !important;
+  transition: all 0.3s;
+}
 
+.amazon-link:hover {
+  background: #FFAC31;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(255,153,0,0.3);
+}
+
+.amazon-link i {
+  margin-left: 5px;
+  font-size: 0.9rem;
+}
+
+.product-card {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 8px;
+  transition: all 0.3s;
+}
+
+.product-card:hover {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
   .navmenu a i,
   .navmenu a:focus i {
     font-size: 12px;
