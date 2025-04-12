@@ -1,0 +1,60 @@
+
+<!-- Amazon Products Section -->
+<section id="products" class="products section">
+
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Featured Amazon Products</h2>
+    <p>Our top recommended tech products</p>
+  </div>
+
+  <div class="container">
+
+    <div class="row gy-4">
+
+      <!-- Product 1 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="product-item">
+          <a href="https://www.amazon.com/dp/B08N5KWB9H/?tag=6157444086525-20" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="assets/img/products/product1.jpg" class="img-fluid" alt="Wireless Earbuds">
+          </a>
+          <h3>Premium Wireless Earbuds</h3>
+          <div class="price">$79.99</div>
+          <a href="https://www.amazon.com/dp/B08N5KWB9H/?tag=6157444086525-20" class="btn-buy" target="_blank" rel="noopener noreferrer nofollow">View on Amazon</a>
+        </div>
+      </div>
+
+      <!-- Product 2 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+        <div class="product-item">
+          <a href="https://www.amazon.com/dp/B07VGRJDFY/?tag=6157444086525-20" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="assets/img/products/product2.jpg" class="img-fluid" alt="Smart Watch">
+          </a>
+          <h3>Smart Watch Series 5</h3>
+          <div class="price">$199.99</div>
+          <a href="https://www.amazon.com/dp/B07VGRJDFY/?tag=6157444086525-20" class="btn-buy" target="_blank" rel="noopener noreferrer nofollow">View on Amazon</a>
+        </div>
+      </div>
+
+      <!-- Product 3 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+        <div class="product-item">
+          <a href="https://www.amazon.com/dp/B08KTZ8249/?tag=6157444086525-20" target="_blank" rel="noopener noreferrer nofollow">
+            <img src="assets/img/products/product3.jpg" class="img-fluid" alt="Bluetooth Speaker">
+          </a>
+          <h3>Portable Bluetooth Speaker</h3>
+          <div class="price">$59.99</div>
+          <a href="https://www.amazon.com/dp/B08KTZ8249/?tag=6157444086525-20" class="btn-buy" target="_blank" rel="noopener noreferrer nofollow">View on Amazon</a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="text-center mt-4">
+      <a href="https://www.amazon.com/shop/6157444086525-20" class="btn-amazon-store" target="_blank" rel="noopener noreferrer nofollow">
+        Visit Our Full Amazon Store
+      </a>
+    </div>
+
+  </div>
+
+</section>
