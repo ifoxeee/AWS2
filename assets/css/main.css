@@ -1197,6 +1197,35 @@ section,
 }
 
 
+/* Amazon Financial Services Section */
+#amazon-financial {
+  padding: 80px 0;
+  background: #f8f9fa;
+}
+
+.financial-card {
+  background: white;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  transition: transform 0.3s;
+}
+
+.financial-card:hover {
+  transform: translateY(-5px);
+}
+
+.btn-amazon {
+  background: #FF9900;
+  color: #000 !important;
+  border: none;
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.btn-amazon:hover {
+  background: #FFAC31;
+}
 /* Amazon Services Section */
 .amazon-services {
   padding: 60px 0;
